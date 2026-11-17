@@ -1,0 +1,9 @@
+{
+  "name": "zoomer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@netlify/functions": "^2.8.0"
+  }
+}
